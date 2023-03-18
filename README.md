@@ -1,5 +1,6 @@
-
 # 💫 Souheila Sidennas
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7C62F7&multiline=true&width=435&lines=Don't+forget+to+reach+out+!)](https://git.io/typing-svg)
 
 **`Creative mind (Graphic Designer/Digital Martketer/Content Creator/ Soon to be a Software Engineer)`**
 
