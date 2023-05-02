@@ -61,7 +61,6 @@
 
 <br />
 
-## 📊 GitHub Stats
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=souheilaso&theme=dark&hide_border=false)<br/>
+<!--Sneek Gusano-->
+![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
