@@ -1,64 +1,41 @@
-<h5 align="center">
-   <h1 align="center">💫 Souheila Sidennas 💫</h1> 
-   <h3 align="center">Creative mind</h3> 
-   <p align="center"><code><space><strong>Graphic Designer</strong> | <strong>Digital Marketer</strong> | <strong>Content Creator</strong> | <strong>Software Engineer</strong><space></code></p>
-</h5>
+<h1 align="center">💫 Souheila Sidennas 💫</h1> 
+<p align="center">🎨 Creative mind | 🖥️ Software Engineer | 📸 Graphic Designer | 📊 Digital Marketer</p>
 
 <p align="center">
-   I'm Currently pursuing my studies as a <strong>Software Engineer</strong>. I have a <u>M.A. degree in teaching</u> and 6 years worth of experience as a Graphic Designer, Content creator, Social Media Manager, Marketing Manager, and Video editor. I love to continuously work on my skills in order to make a positive impact.
+   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=7C62F7&multiline=true&width=400&lines=Don't+forget+to+reach+out+" />
 </p>
-
 
 <p align="center">
-   <img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=7C62F7&multiline=true&width=300&lines=Don't+forget+to+reach+out+" />
+   <a href="https://www.linkedin.com/in/souheila-s/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+   </a>
 </p>
+
+<h2 align="center">👩‍💻 About Me</h2>
+
+<p align="center">Hello there! I'm Souheila, a passionate Software Engineer with a keen eye for design. I hold a master's degree in teaching and have gathered over 6 years of experience in various creative roles, including Graphic Designing, Digital Marketing, and Video Editing. My love for technology has led me to embark on a journey to excel in Software Engineering, where I aim to use my creative skills to craft elegant and efficient solutions.</p>
+
+<h2 align="center">🛠️ Tech Stack</h2>
+
 <p align="center">
-      <a href="https://www.linkedin.com/in/souheila-s/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/souheila-s/" height="30" width="40" /></a>
+   <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" alt="Adobe Photoshop">
+   <img src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF?style=for-the-badge&logo=adobe-after-effects&logoColor=white" alt="Adobe After Effects">
+   <img src="https://img.shields.io/badge/Adobe%20Audition-9999FF?style=for-the-badge&logo=adobe-audition&logoColor=white" alt="Adobe Audition">
+   <img src="https://img.shields.io/badge/Adobe%20InDesign-B54B83?style=for-the-badge&logo=adobe-indesign&logoColor=white" alt="Adobe InDesign">
+   <img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=adobe-lightroom&logoColor=white" alt="Adobe Lightroom">
+   <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white" alt="Adobe Premiere Pro">
+   <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white" alt="Adobe Illustrator">
+   <img src="https://img.shields.io/badge/Adobe%20XD-B54B83?style=for-the-badge&logo=adobe-xd&logoColor=white" alt="Adobe XD">
+   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva">
+   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
+   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
+   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
 </p>
 
-<br />
-
-## 💻 Tech Stack
-
-### Adobe
-
-<div>
-   <img src="https://img.shields.io/badge/adobe-photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF" />
-   <img src="https://img.shields.io/badge/Adobe%20-After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=9999FF" />
-   <img src="https://img.shields.io/badge/Adobe%20-Audition-9999FF.svg?style=for-the-badge&logo=Adobe%20Audition&logoColor=9999FF" />
-   <img src="https://img.shields.io/badge/Adobe%20-InDesign-B54B83?style=for-the-badge&logo=adobeindesign&logoColor=B54B83" />
-<div>
-<div style="flex">
-   <img src="https://img.shields.io/badge/Adobe%20-Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=31A8FF" />
-   <img src="https://img.shields.io/badge/Adobe%20-Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=9999FF" />
-   <img src="https://img.shields.io/badge/adobe-illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=FF9A00" />
-   <img src="https://img.shields.io/badge/Adobe%20-XD-B54B83?style=for-the-badge&logo=Adobe%20XD&logoColor=B54B83" />
-</div>
-
-### Design Tools
-
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
-### Programming
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-### Productivity
-
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
-
-### Presentation
-
-![Prezi](https://img.shields.io/badge/Prezi-%23FFF.svg?style=for-the-badge&logo=Prezi&logoColor=blue)
-
-### Web Tools
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-<br />
+<p align="center">Feel free to connect with me on LinkedIn for any collaboration or project discussions!</p>
 
 
