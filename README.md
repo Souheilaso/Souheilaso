@@ -1,4 +1,4 @@
-<h1 align="center">💫 Souheila Sidennas 💫</h1> 
+<h1 align="center">💫 Souheila 💫</h1> 
 <p align="center">🎨 Creative mind | 🖥️ Software Engineer | 📸 Graphic Designer | 📊 Digital Marketer</p>
 
 <p align="center">
